@@ -4,7 +4,7 @@ game 'gta5'
 
 description 'ESX Jobs'
 
-version '1.1.0'
+version '6.5.3'
 
 server_scripts {
 	'@es_extended/locale.lua',
