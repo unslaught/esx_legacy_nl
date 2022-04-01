@@ -1,4 +1,7 @@
 # esx_jobs
+
+# minor Bug fixes by Unslaught
+
 ### Requirements
 - [esx_addonaccount](https://github.com/ESX-Org/esx_addonaccount)
 - [esx_skin](https://github.com/ESX-Org/esx_skin)
