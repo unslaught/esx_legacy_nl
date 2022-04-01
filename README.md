@@ -5,6 +5,7 @@ copied from the original
 https://github.com/esx-framework/esx-legacy
 
 this is a work in progress (WIP)
+some of the HTML files still needs translations
 
 files in this repository , are souly for use of translations into people's 
 native languages 
