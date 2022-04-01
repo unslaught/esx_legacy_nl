@@ -13,23 +13,6 @@
 - Item farming jobs
 This addon is an easy way to have farming jobs on your server, there is no player management.
 
-## Download & Installation
-
-### Using [fvm](https://github.com/qlaffont/fvm-installer)
-```
-fvm install --save --folder=esx esx-org/esx_jobs
-```
-
-### Using Git
-```
-cd resources
-git clone https://github.com/ESX-Org/esx_jobs [esx]/esx_jobs
-```
-
-### Manually
-- Download https://github.com/ESX-Org/esx_jobs/archive/master.zip
-- Put it in the `[esx]` directory
-
 ## Installation
 - Import `esx_jobs.sql` into your database
 - Add this into your `server.cfg`
